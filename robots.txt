@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sownelbe.github.io/sitemap
+Sitemap: https://sownelbe.github.io/app/sitemap
+Sitemap: https://sownelbe.github.io/assets/sitemap
+Sitemap: https://sownelbe.github.io/css/sitemap
+Sitemap: https://sownelbe.github.io/includes/sitemap
+Sitemap: https://sownelbe.github.io/item/sitemap
+Sitemap: https://sownelbe.github.io/src/sitemap
